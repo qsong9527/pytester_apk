@@ -1,1 +1,0 @@
-# pytester_apk
