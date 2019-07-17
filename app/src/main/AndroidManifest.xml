@@ -19,6 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activities.BaseItemsActivity" android:label="Base Label" />
+        <activity android:name=".activities.ListViewActivity" android:label="List View" />
     </application>
 
 </manifest>
